@@ -1,0 +1,46 @@
+[
+  {
+    "id": "ColorUno",
+    "opciones": [
+      ["Rojo", "Red"],
+      ["Azul", "Blue"],
+      ["Verde", "Green"],
+      ["Naranja", "Orange"],
+      ["Amarillo", "Yellow"]
+    ],
+    "tipos": ["A", "B", "C"],
+    "isFrase": false
+  },
+  {
+    "id": "ColorDos",
+    "opciones": [
+      ["Marron", "Brown"],
+      ["Negro", "Black"],
+      ["Morado", "Purple"],
+      ["Rosado", "Pink"],
+    ],
+    "tipos": ["A", "B", "C"],
+    "isFrase": false
+  },
+  {
+    "id": "ColorTres",
+    "opciones": [
+      ["Cian", "Cyan"],
+      ["Fucsia", "Fuchsia"],
+      ["Gris", "Gray"],
+      ["Bermellon", "Vermilion"],
+      ["Dorado", "Gold"]
+    ],
+    "tipos": ["A", "B", "C"],
+    "isFrase": false
+  },
+  {
+    "id": "ColorCuatro",
+    "opciones": [
+      ["El color rojo es bonito", "The color red is beautifull"],
+      ["Me gusta el color negro", "I like the color black"]
+    ],
+    "tipos": ["D"],
+    "isFrase": true
+  }
+]

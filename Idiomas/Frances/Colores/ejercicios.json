@@ -1,0 +1,37 @@
+[
+  {
+    "id": "ColFr01",
+    "opciones": [
+      ["Verde", "Vert"],
+      ["Violeta", "Violet"],
+      ["Rosado", "Rose"],
+      ["Naranja", "Orange"],
+      ["Black", "Noire"]
+    ],
+    "tipos": ["A", "B", "C"],
+    "isFrase": false
+  },
+  {
+    "id": "ColFr02",
+    "opciones": [
+      ["Red", "Rouge"],
+      ["Amarillo", "Jaune"],
+      ["Marron", "Marron"],
+      ["Blanco", "Blanc"],
+      ["Dorado", "Dore"],
+    ],
+    "tipos": ["A", "B", "C"],
+    "isFrase": false
+  },
+  {
+    "id": "ColFr03",
+    "opciones": [
+      ["Limon", "Citron"],
+      ["Mostaza", "Moutarde"],
+      ["Rojo", "Rouge"],
+      ["Azul", "Bleu"],
+    ],
+    "tipos": ["C"],
+    "isFrase": false
+  }
+]

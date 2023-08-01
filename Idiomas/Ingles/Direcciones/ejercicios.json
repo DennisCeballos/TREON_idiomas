@@ -1,0 +1,25 @@
+[
+  {
+    "id": "DirEn1",
+    "opciones" [
+      ["Arriba", "Up"],
+      ["Abajo", "Down"],
+      ["Izquierda", "Left"],
+      ["Derecha", "Right"],
+    ],
+    "tipos": ["A", "B", "C"],
+    "isFrase": false
+  },
+  {
+    "id": "DirEn2",
+    "opciones": [
+      ["Dentro", "Inside"],
+      ["Afuera", "Outside"],
+      ["Encima", "Above"],
+      ["Cerca", "Near"],
+      ["A traves de", "Through"],
+    ],
+    "tipos": ["A", "B", "C"],
+    "isFrase": false
+  }
+]
